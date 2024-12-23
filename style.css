@@ -48,7 +48,7 @@ header {
     height: 70px;
 }
 
-.contact-button button {
+.contact-button{
     color: #fff;
     background-color: #ff6600;
     text-decoration: none;
@@ -60,11 +60,11 @@ header {
     transition: background-color 0.5s;
 }
 
-.contact-button button a{
+.contact-button a{
     color: #fff;
 }
 
-.contact-button button:hover {
+.contact-button:hover {
     background-color: #6c2f1a;
 }
 

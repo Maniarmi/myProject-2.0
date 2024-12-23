@@ -1,0 +1,7 @@
+Student name: Mania Karimi 
+Student number: 730336
+Student class: C
+GitHub Repository: https://github.com/Maniarmi/myProject-2.0.git
+GitHub Pages URL: https://maniarmi.github.io/myProject-2.0/
+
+

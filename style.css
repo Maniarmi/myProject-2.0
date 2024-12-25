@@ -243,19 +243,10 @@ nav a:hover{
     margin: 20px 0;
 }
 
-.meal-buttons a{
+.meal-buttons a {
     color: #fff;
-}
-
-h3{
-    font-style: italic;
-    font-size: 30px;
-}
-
-.meal-buttons button {
     text-decoration: none;
     background-color: #FF6600;
-    color: #fff;
     border: none;
     padding: 10px 20px;
     margin: 0 10px;
@@ -266,12 +257,19 @@ h3{
     transition: background-color 0.5s;
 }
 
-.meal-buttons button:hover {
+
+.meal-buttons a:hover {
     background-color: #6c2f1a;
 }
 
+
+h3{
+    font-style: italic;
+    font-size: 30px;
+}
+
 .recipes-list {
-    
+
     width: 70%;
     margin-left: 60px;
     padding: 40px;
@@ -819,5 +817,8 @@ footer{
     }
     .img-box:hover {
       width: 150px;
+    }
+    aside {
+        display: none;
     }
 }

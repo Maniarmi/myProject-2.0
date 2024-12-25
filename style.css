@@ -710,17 +710,19 @@ footer{
     width: 100%;
 }
 
-
 .footer-menu ul{
     display: flex;
     justify-content: center;
-    gap: 30px;
     font-size: 20px;
 }
 
 .footer-menu ul li a{
     color: #000;
     transition: color 0.5s;
+}
+
+ul>li {
+    margin: 22px;
 }
 
 .footer-menu ul li a:hover{
@@ -814,7 +816,7 @@ footer{
     }
     .footer-menu ul {
       font-size: 14px;
-      gap: 15px;
+      gap: 10px;
     }
     .img-box:hover {
       width: 150px;
